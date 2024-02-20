@@ -3,4 +3,4 @@ require 'watir'
 puts "Give me a link to imdb page!"
 url = gets.chomp
 
-puts url
+puts "Parsing url #{url}"
