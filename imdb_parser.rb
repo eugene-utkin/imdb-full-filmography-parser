@@ -8,3 +8,5 @@ puts "Parsing url #{url}"
 browser = Watir::Browser.new
 
 browser.goto url
+
+listed_jobs_buttons = browser.element(id: /name-filmography-filter-/)
