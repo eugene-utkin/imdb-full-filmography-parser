@@ -9,5 +9,5 @@ browser = Watir::Browser.new
 
 browser.goto url
 
-listed_jobs_buttons = browser.element(id: /name-filmography-filter-/)
+listed_jobs_buttons = browser.button(id: /name-filmography-filter-/)
 puts listed_jobs_buttons
