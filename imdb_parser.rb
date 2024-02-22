@@ -19,3 +19,5 @@ listed_jobs_buttons = browser.button(id: "name-filmography-filter-actor").click
 # press buttons
 
 # find sections
+
+# open up sections
