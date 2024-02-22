@@ -13,3 +13,5 @@ listed_jobs_buttons = browser.button(id: "name-filmography-filter-actor").click
 # listed_jobs_buttons.each do |btn|
 #   btn.click
 # end
+
+# find buttons
