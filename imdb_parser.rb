@@ -14,6 +14,8 @@ listed_jobs_buttons = browser.button(id: "name-filmography-filter-actor").click
 #   btn.click
 # end
 
+# create results hash
+
 # find buttons
 
 # press buttons
@@ -23,3 +25,4 @@ listed_jobs_buttons = browser.button(id: "name-filmography-filter-actor").click
 # open up sections
 
 # parse movies
+
